@@ -1,0 +1,10 @@
+metric                         |          espeak-ng |           festival
+------------------------------------------------------------------------
+duration_sec                   |             118.08 |             133.18
+f0_mean_hz                     |              103.4 |              115.4
+f0_std_hz                      |               53.9 |               55.9
+f0_cv_percent                  |               52.1 |               48.5
+n_pauses                       |                445 |                441
+pause_len_mean_frames          |               5.31 |               6.04
+pause_len_std_frames           |               4.94 |               7.97
+pause_len_cv_percent           |               93.2 |              131.9
